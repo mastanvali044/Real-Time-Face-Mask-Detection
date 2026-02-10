@@ -22,21 +22,7 @@ Detecting Wearing Mask or Not – For this functionality the system detects if t
 - Public Places
 - Hospitals and ETC.
 
-# Install Guide 
 
-
-# Output 
-
-
-# Super Visor
-
-Shuyin Xia (夏书银), Ph.D
-
-School of Computer Science & Artificial Intelligence
-
-Ex-Director of Chongqing Artificial Intelligence Society, Chongqing. China
-
-Chongqing University of Posts and Telecommunication, China
 
 
 
